@@ -26,6 +26,8 @@ Note Taker: Ayoub Messos
 
 **Attendees:**
 Qin, Jordi, Richard, Sabine, Roland, Jensen, Kai, Ayoub (taking minutes)
+
+
 **Agenda:**
 1-	Round table / Priority Items
 2-	Chartered items:
